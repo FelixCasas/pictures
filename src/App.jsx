@@ -7,7 +7,7 @@ function App() {
     <>
       <h1> Picture App </h1>
       <SearchBar />
-      <ImageList />
+      <ImageList />   
     </>
   )
 }
